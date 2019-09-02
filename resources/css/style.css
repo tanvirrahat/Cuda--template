@@ -514,3 +514,11 @@ footer ul li:hover a:visited {
     color: #30bae7;
     transition: 0.2s;
 }
+/*************COPYRIGHT****************/
+.copyright-ratul {
+    padding: 1rem 0;
+}
+.copyright-ratul p {
+    font-size: 1.4rem;
+    color: rgba(255, 255, 255, 0.8);
+}
